@@ -6,13 +6,6 @@ This repository contains tools and scripts designed to introduce small, quality-
 
 This folder contains the AutoHotkey script (`Windows Terminal Shortcut.ahk`) to quickly launch the new **Windows Terminal** with a simple keyboard shortcut.
 
-### The Script (`Windows Terminal Shortcut.ahk`)
-
-The script is simple and lightweight:
-
-^!t:: ; Ctrl + Alt + T shortcut key Run, wt ; Open Windows Terminal return
-
-
 This assigns the global shortcut **`Ctrl + Alt + T`** to execute the command `wt`, which is the alias for Windows Terminal.
 
 ## 🛠️ Prerequisites
